@@ -1,5 +1,6 @@
 # valueRegister
 
+This project was part of an assignment in the course: Programming 2. 
 
 **About this program:**
 
